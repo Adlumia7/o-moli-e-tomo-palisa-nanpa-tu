@@ -1113,7 +1113,7 @@
   "TEMPEST.title": "Tempest",
   "TERRAFORMING.description": "o jo e [gold]wawa utala pi tenpo lili[/gold] {VigorPower:diff()}",
   "TERRAFORMING.title": "Terraforming",
-  "TESLA_COIL.description": "o pana e pakala {Damage:diff()}\nTrigger all [gold]pakala sewi[/gold] against the enemy",
+  "TESLA_COIL.description": "o pana e pakala {Damage:diff()}\no musi e [gold]pakala sewi[/gold] ale tawa monsuta ni",
   "TESLA_COIL.title": "Tesla Coil",
   "TEZCATARAS_MIGHT.description": "o jo e [gold]wawa utala[/gold] {StrengthPower:diff()}\ntenpo sina pini la [gold]wawa utala[/gold] li lili {StrengthLoss:diff()}",
   "TEZCATARAS_MIGHT.title": "Tezcatara's Might",
