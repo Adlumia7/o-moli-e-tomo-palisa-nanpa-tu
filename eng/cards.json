@@ -866,7 +866,7 @@
   "REANIMATE.title": "Reanimate",
   "REAP.description": "o pana e pakala {Damage:diff()}",
   "REAP.title": "Reap",
-  "REAPER_FORM.description": "lipu utala li pana e pakala la ona li pana e [gold]nasa moli[/gold] tan nanpa pakala",
+  "REAPER_FORM.description": "lipu utala li pana e pakala la o pana e [gold]nasa moli[/gold] tan nanpa pakala",
   "REAPER_FORM.title": "Reaper Form",
   "REAVE.description": "o pana e pakala {Damage:diff()}\no lon e lipu [gold]{IfUpgraded:show:Soul+|Soul}[/gold] lon [gold]kulupu kama[/gold] sina",
   "REAVE.title": "Reave",
