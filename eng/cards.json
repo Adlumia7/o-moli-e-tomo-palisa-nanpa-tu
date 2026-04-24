@@ -1007,7 +1007,7 @@
   "SOUL.title": "Soul",
   "SOUL_STORM.description": "o pana e pakala {CalculatedDamage:diff()}\no pana e pakala mute {ExtraDamage:diff()} tan nanpa lipu [gold]Soul[/gold] lon [gold]kulupu moli[/gold] sina",
   "SOUL_STORM.title": "Soul Storm",
-  "SOVEREIGN_BLADE.description": "{Repeat:plural:|tenpo {} la }o pana e pakala {Damage:diff()}{SeekingEdgeAmount:cond:>0? tawa monsuta ALE|}{GainsBlock:cond:\no jo e [gold]selo wawa[/gold] {CalculatedBlock:diff()}|}",
+  "SOVEREIGN_BLADE.description": "{Repeat:plural:|tenpo {} la }o pana e pakala {Damage:diff()}{TargetType:choose(AllEnemies): tawa monsuta ALE|}{GainsBlock:cond:\no jo e [gold]selo wawa[/gold] {CalculatedBlock:diff()}|}",
   "SOVEREIGN_BLADE.title": "Sovereign Blade",
   "SOW.description": "o pana e pakala {Damage:diff()} tawa monsuta ALE",
   "SOW.title": "Sow",
