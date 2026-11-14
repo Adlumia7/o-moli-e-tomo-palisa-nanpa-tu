@@ -1,0 +1,23 @@
+{
+  "OPTION_CLONE.description": "Duplicate all cards enchanted with [gold]{EnchantmentName}[/gold].",
+  "OPTION_CLONE.name": "pali mute",
+  "OPTION_COOK.description": "[gold]Remove[/gold] [blue]{Cards}[/blue] cards from your [gold]Deck[/gold] and gain [green]{MaxHp}[/green] Max HP.",
+  "OPTION_COOK.descriptionDisabled": "[red]You need at least 2 removable cards in your Deck.[/red]",
+  "OPTION_COOK.name": "pali moku",
+  "OPTION_DIG.description": "Dig for a [gold]Relic[/gold].",
+  "OPTION_DIG.name": "pali lupa",
+  "OPTION_HATCH.description": "Hatch your [green]Byrdonis Egg[/green].",
+  "OPTION_HATCH.name": "pakala sike",
+  "OPTION_HEAL.description": "nanpa sijelo sina li mute tan nanpa sewi sijelo sina 30% ({Heal})\n{ExtraText}",
+  "OPTION_HEAL.name": "pona sijelo",
+  "OPTION_KINDLE.description": "Add {RekindleAmount} charges to [gold]{RelicName}[/gold].",
+  "OPTION_KINDLE.name": "seli",
+  "OPTION_LIFT.description": "utala li open la sina jo e wawa utala mute 1\n({LiftsLeft} li lon)",
+  "OPTION_LIFT.name": "wawa",
+  "OPTION_MEND.description": "Heal {HasTarget:{Name}|someone else} for 30% of their Max HP{HasTarget: ({Heal})|}.",
+  "OPTION_MEND.name": "pona sijelo ante",
+  "OPTION_SMITH.description": "[gold]Upgrade[/gold] {Count:plural:a card|{} cards} in your [gold]Deck[/gold].",
+  "OPTION_SMITH.descriptionDisabled": "[red]You have no available cards to Upgrade.[/red]",
+  "OPTION_SMITH.name": "pona lipu",
+  "PROMPT": "mi pali e seme"
+}
