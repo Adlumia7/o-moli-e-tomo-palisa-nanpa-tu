@@ -10,9 +10,9 @@ config_version=5
 
 [application]
 
-config/name="o_moli_e_tomo_palisa_tu"
+config/name="OMoliETomoPalisaNanpaTu"
 config/features=PackedStringArray("4.5", "C#", "Mobile")
-config/icon="res://o_moli_e_tomo_palisa_tu/mod_image.png"
+config/icon="res://OMoliETomoPalisaNanpaTu/mod_image.png"
 
 [display]
 
@@ -24,7 +24,7 @@ window/stretch/aspect="expand"
 
 [dotnet]
 
-project/assembly_name="o_moli_e_tomo_palisa_tu"
+project/assembly_name="OMoliETomoPalisaNanpaTu"
 
 [rendering]
 

@@ -1,8 +1,8 @@
 ﻿{
-  "id": "o_moli_e_tomo_palisa_tu",
-  "name": "o moli e tomo palisa tu",
+  "id": "OMoliETomoPalisaNanpaTu",
+  "name": "o moli e tomo palisa nanpa tu",
   "author": "adlumia / kasi Lumi",
-  "description": "toki pona translation for StS2",
+  "description": "toki pona localization for StS2\ntoki tan musi ni li kama toki pona",
   "version": "v0.0.0",
   "min_game_version": "0.107.0",
   "has_pck": true,
@@ -10,5 +10,5 @@
   "dependencies": [
     {"id": "BaseLib", "min_version": "3.4.8"}
   ],
-  "affects_gameplay": false
+  "affects_gameplay": true
 }

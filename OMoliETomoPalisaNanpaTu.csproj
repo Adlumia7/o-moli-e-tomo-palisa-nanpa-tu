@@ -39,15 +39,15 @@
         <!-- <PackageReference Include="Alchyr.Sts2.ModAnalyzers" Version="*" /> Some checks regarding models and localization. Uncomment to enable. -->
         <!-- Generates a .pck file when building if only using simple assets. May not work on all setups. Uncomment to test. -->
         <!-- <PackageReference Include="BSchneppe.StS2.PckPacker" Version="0.1.1" PrivateAssets="All" /> -->
-        <AdditionalFiles Include="o_moli_e_tomo_palisa_tu/localization/**/*.json"/> <!-- Used by analyzer, if it's enabled -->
+        <AdditionalFiles Include="OMoliETomoPalisaNanpaTu/localization/**/*.json"/> <!-- Used by analyzer, if it's enabled -->
     </ItemGroup>
 
     <ItemGroup>
-        <Compile Remove="o_moli_e_tomo_palisa_tu/**" />
+        <Compile Remove="OMoliETomoPalisaNanpaTu/**" />
         <Compile Remove="materials/**" />
         <Compile Remove="shaders/**" />
         <Compile Remove="images/**" />
-        <EmbeddedResource Remove="o_moli_e_tomo_palisa_tu/**" />
+        <EmbeddedResource Remove="OMoliETomoPalisaNanpaTu/**" />
         <EmbeddedResource Remove="materials/**" />
         <EmbeddedResource Remove="shaders/**" />
         <EmbeddedResource Remove="images/**" />
@@ -56,9 +56,9 @@
     <ItemGroup>
         <None Condition="Exists('Directory.Build.props')" Include="Directory.Build.props"/>
         <None Include=".gitignore" />
-        <None Include="o_moli_e_tomo_palisa_tu.json" />
+        <None Include="OMoliETomoPalisaNanpaTu.json" />
         <None Include="project.godot"/>
-        <None Include="o_moli_e_tomo_palisa_tu/**" />
+        <None Include="OMoliETomoPalisaNanpaTu/**" />
     </ItemGroup>
     
     <Target Name="CheckDependencyPaths" >
